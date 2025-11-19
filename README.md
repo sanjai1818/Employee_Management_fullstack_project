@@ -34,4 +34,3 @@ This project allows organizations to manage employee records efficiently with fe
 
 ---
 
-## 📂 Project Structure
